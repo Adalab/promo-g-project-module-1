@@ -1,6 +1,6 @@
 # Promo G
 
-Este proyecto me mola un montón!
+Este repositorio tiene la descripcion del proyecto del Módulo 1
 
 ## Authors
 
