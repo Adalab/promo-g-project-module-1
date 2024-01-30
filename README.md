@@ -1,7 +1,7 @@
 
 # Promo G
 
-A brief description of what this project does and who it's for
+Este repositorio tiene la descripcion del proyecto del Módulo 1
 
 
 ## Authors
